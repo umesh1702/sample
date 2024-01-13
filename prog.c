@@ -1,2 +1,9 @@
-//this contains sample program
-//this is also a c program
+#include <stdio.h>
+//printining hello world
+void main()
+{
+
+printf("hello world");
+
+}
+
